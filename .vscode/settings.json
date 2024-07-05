@@ -1,0 +1,95 @@
+{
+  "files.associations": {
+    "*.h": "cpp",
+    "*.hpp": "cpp",
+    "iostream": "cpp",
+    "array": "cpp",
+    "atomic": "cpp",
+    "*.tcc": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "cmath": "cpp",
+    "cstdarg": "cpp",
+    "cstddef": "cpp",
+    "cstdint": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "cwchar": "cpp",
+    "cwctype": "cpp",
+    "deque": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "exception": "cpp",
+    "algorithm": "cpp",
+    "functional": "cpp",
+    "iterator": "cpp",
+    "memory": "cpp",
+    "memory_resource": "cpp",
+    "numeric": "cpp",
+    "random": "cpp",
+    "string": "cpp",
+    "system_error": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "fstream": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "new": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "typeinfo": "cpp",
+    "ctime": "cpp",
+    "iomanip": "cpp",
+    "thread": "cpp",
+    "chrono": "cpp",
+    "ratio": "cpp",
+    "condition_variable": "cpp"
+  },
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "C:/MinGW/lib/gcc/mingw32/9.2.0/include/c++",
+    "C:/MinGW/include"
+  ],
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.default.cppStandard": "c++20",
+  "C_Cpp.default.cStandard": "c17",
+  "C_Cpp.default.compilerPath": "C:/MinGW64/bin/g++.exe",
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "editor.rulers": [80, 120],
+  "files.autoSave": "onFocusChange",
+  "C_Cpp.errorSquiggles": "enabled",
+  "uncrustify.configPath.windows": "uncrustify.cfg",
+  "uncrustify.executablePath.windows": "uncrustify.exe",
+  "[c]": {
+    "editor.defaultFormatter": "zachflower.uncrustify",
+    "editor.formatOnSave": true
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "zachflower.uncrustify",
+    "editor.formatOnSave": true
+  },
+  "cmake.configureOnOpen": true,
+  "cmake.ignoreCMakeListsMissing": true,
+  "cmake.options.advanced": {
+    "build": {
+      "statusBarVisibility": "inherit",
+      "inheritDefault": "visible"
+    },
+    "launch": {
+      "statusBarVisibility": "inherit",
+      "inheritDefault": "visible"
+    },
+    "debug": {
+      "statusBarVisibility": "inherit",
+      "inheritDefault": "visible"
+    }
+  },
+  "C_Cpp.vcFormat.indent.accessSpecifiers": true,
+  "C_Cpp.vcFormat.newLine.beforeCatch": false
+}

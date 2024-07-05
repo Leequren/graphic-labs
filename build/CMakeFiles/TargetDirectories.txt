@@ -1,0 +1,6 @@
+C:/Users/liqul/Projects/cpp/graphic labs/build/CMakeFiles/edit_cache.dir
+C:/Users/liqul/Projects/cpp/graphic labs/build/CMakeFiles/rebuild_cache.dir
+C:/Users/liqul/Projects/cpp/graphic labs/build/lab1/CMakeFiles/lab1.dir
+C:/Users/liqul/Projects/cpp/graphic labs/build/lab1/CMakeFiles/run.dir
+C:/Users/liqul/Projects/cpp/graphic labs/build/lab1/CMakeFiles/edit_cache.dir
+C:/Users/liqul/Projects/cpp/graphic labs/build/lab1/CMakeFiles/rebuild_cache.dir
